@@ -861,6 +861,9 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
 }
+.rounded-circle{
+  height:150px;
+}
 
 /*======================================
 //--//-->   BLOG
